@@ -1,0 +1,5 @@
+conda create -n opcv34 python=3.6.3
+conda activate opcv34
+使用阿里云镜像https://mirrors.aliyun.com/pypi/simple/
+conda install matplotlib=3.3.4
+pip install opencv-python==3.4.1.15（包含numpy库）
